@@ -9,6 +9,7 @@
 import os
 import shutil
 import subprocess
+import sys
 
 # Configure globals.
 REPO_ROOT = os.path.dirname(os.path.realpath(__file__))
